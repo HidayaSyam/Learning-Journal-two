@@ -17,6 +17,7 @@
     ##### To prevent this type of catastrophic loss, a DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information.
 
 
+
 **Contant** | **access Link**
 --- | ---
 Intoduction | [Link](https://hidayasyam.github.io/Learning-Journal-two/Index)
