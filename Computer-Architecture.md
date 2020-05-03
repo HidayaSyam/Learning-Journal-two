@@ -31,3 +31,4 @@
 
 
 ![Binary](https://www.lifewire.com/thmb/-27LpEPPTgNRUORa_mIczKDkWh0=/1280x905/filters:fill(auto,1)/what-is-binary-and-how-does-it-work-4692749-1-1eaec2e636424e71bb35419ef8d5005b.png)
+
